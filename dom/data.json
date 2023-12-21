@@ -1,0 +1,8 @@
+{
+    "todos":[
+        {"name": "Wake up", "time": 8},
+        {"name": "Brush your teeth", "time": 8.05},
+        {"name": "Drink hot water", "time": 8.10},  
+        {"name": "Eat breakfast", "time": 8.15}
+    ]
+}
