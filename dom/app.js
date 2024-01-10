@@ -11,9 +11,8 @@ document.getElementById("add_btn").addEventListener("click", function(event){
     //console.log(li)
     //ordered_list.appendChild(li)
 
-    //Update up to here
 
-    fetch("./data.json") //or put url in place of "quoted in brackets"
+    fetch("http://localhost:3000/todos") //or put url in place of "quoted in brackets"
     .then(data => data.json())
     .then(usable_data => {
         

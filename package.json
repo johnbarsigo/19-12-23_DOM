@@ -1,0 +1,22 @@
+{
+  "name": "19-12-23_dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbarsigo/19-12-23_DOM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbarsigo/19-12-23_DOM/issues"
+  },
+  "homepage": "https://github.com/johnbarsigo/19-12-23_DOM#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.14"
+  }
+}

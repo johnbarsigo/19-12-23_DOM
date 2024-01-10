@@ -1,0 +1,22 @@
+Big O Notation
+---------------
+
+Measure time complexity and space complexity
+
+Time complexity
+---------------
+
+Constant time = O(1)
+Linear time = O(n)
+O(log n) =[ 1, 2, 3, 4, 5, 6 ]
+O(n2)
+O(n log n)
+
+Space complexity
+----------------
+
+Constant space = O(1)
+Linear space O(n)
+O(log n) = [ 1, 2, 3, 4, 5, 6 ]
+O(n2)
+O(n log n)
